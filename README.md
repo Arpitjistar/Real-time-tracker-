@@ -1,7 +1,5 @@
 # Real-time Device Tracker
 
-![Trip-Replay-2](https://github.com/user-attachments/assets/176356fa-566f-41ef-a4bb-8bd96e7c0eca)
-
 ## Overview
 
 This project is a real-time device tracking application that uses geolocation and WebSockets to track the location of devices and display them on a map. It leverages Node.js, Express, Socket.io, and Leaflet.js to provide real-time updates and map rendering.
@@ -113,8 +111,3 @@ This project is a real-time device tracking application that uses geolocation an
 
 By combining these technologies and tools, the Real-time Device Tracker provides a robust solution for monitoring the locations of multiple devices in real-time and displaying them on an interactive map.
 
-## Support
-
-#### If you like this project, show your support & love!
-
-[![buy me a coffee](https://res.cloudinary.com/customzone-app/image/upload/c_pad,w_200/v1712840190/bmc-button_wl78gx.png)](https://www.buymeacoffee.com/akashsunile)
